@@ -1,0 +1,17 @@
+RotoPDF - Composants tiers / Third-party components
+
+RotoPDF utilise les logiciels libres suivants. Leurs textes de licence
+complets sont disponibles sur les sites des projets.
+
+- Python (PSF License) - https://www.python.org
+  Inclut Tcl/Tk (licence de type BSD) - https://www.tcl.tk
+- OpenCV (Apache License 2.0) - https://opencv.org
+  Les paquets opencv-python embarquent FFmpeg (LGPL 2.1 ou ulterieure) -
+  https://ffmpeg.org - fourni sous forme de bibliotheques separees.
+- Pillow (licence MIT-CMU / HPND) - https://python-pillow.org
+- ReportLab (licence BSD) - https://www.reportlab.com/opensource/
+- CustomTkinter (licence MIT) - https://github.com/TomSchimansky/CustomTkinter
+- darkdetect (licence BSD 3-Clause) - https://github.com/albertosottile/darkdetect
+- PyInstaller (GPL v2+ avec exception permettant de distribuer l'application
+  produite sous la licence de son choix) - https://pyinstaller.org
+- Inno Setup, utilise pour creer l'installateur - https://jrsoftware.org
