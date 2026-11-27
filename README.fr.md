@@ -78,6 +78,10 @@ Une candidature au programme gratuit de signature de code de la fondation SignPa
 - **Auteur, relecteur et approbateur :** Mattt6
 - **Confidentialité :** ce programme fonctionne hors ligne et ne transmet aucune information à d'autres systèmes en réseau.
 
+## Crédit
+
+Développé par Mattt6 avec l'aide de Claude (Anthropic).
+
 ## Licence
 
 Copyright (C) 2026 Mattt6
