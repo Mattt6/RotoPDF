@@ -78,6 +78,10 @@ An application to the free code signing program of the SignPath Foundation is pl
 - **Author, reviewer and approver:** Mattt6
 - **Privacy:** this program works offline and does not transfer any information to other networked systems.
 
+## Credits
+
+Developed by Mattt6 with the help of Claude (Anthropic).
+
 ## License
 
 Copyright (C) 2026 Mattt6
